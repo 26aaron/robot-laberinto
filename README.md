@@ -16,13 +16,3 @@ Combina simplicidad, bajo costo y efectividad, siendo un proyecto ideal para apr
 
 ---
 
-## 🔹 Especificaciones técnicas
-- Dimensiones: *(completar con medidas reales)*  
-- Peso: *(aprox. en gramos)*  
-- Tensión de operación: 7–9 V  
-- Autonomía: *(aprox. en minutos, si lo medís)*  
-
----
-
-## 🔹 BOM (Bill of Materials)
-| Cantidad | Componente          | Modelo/Referencia | Notas
